@@ -3,13 +3,8 @@
 This project focuses on predicting the Life Expectancy of a country using Linear Regression. The goal is to build a model that can estimate the average lifespan based on different economic, social, geographical, and health-related factors.
 
 ### Dataset
-The dataset was taken from Kaggle, originally based on data collected by the World Health Organization (WHO).
-
-It includes data from both developed and developing countries across several years.
-
-Some of the key features in the dataset are:
-
-Adult mortality, infant deaths, alcohol consumption, GDP, schooling, BMI, immunization rates, and more.
+    The dataset was taken from Kaggle, originally based on data collected by the World Health Organization (WHO). It includes data from both developed and developing             countries across several years. Some of the key features in the dataset are:
+    Adult mortality, infant deaths, alcohol consumption, GDP, schooling, BMI, immunization rates, and more.
 
 ### Steps Followed
 #### 1. Exploratory Data Analysis (EDA)
